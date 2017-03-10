@@ -1,0 +1,2 @@
+class Hello
+{blah blah}
