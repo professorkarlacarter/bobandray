@@ -4,7 +4,8 @@ Bob and Ray's Road Trip Page
 
 Create an application that prints "Hello, world!"
 
-![alt-text](http://bobandray.net/main.jpg)
+![alt-text](http://bobandray.net/images/bobandrayc.jpg)
+
 Rubric
 *Compiles
 *Isn't ugly
